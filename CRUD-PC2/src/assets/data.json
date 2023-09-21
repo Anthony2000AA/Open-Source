@@ -1,0 +1,39 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Titanic",
+      "director": "James Cameron",
+      "anio": 1997,
+      "genero": "Drama/Romance"
+    },
+    {
+      "id": 2,
+      "titulo": "El Padrino",
+      "director": "Francis Ford Coppola",
+      "anio": 1972,
+      "genero": "Crimen/Drama"
+    },
+    {
+      "id": 3,
+      "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
+      "director": "George Lucas",
+      "anio": 1977,
+      "genero": "Ciencia ficción/Aventura"
+    },
+    {
+      "id": 4,
+      "titulo": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "anio": 1993,
+      "genero": "Ciencia ficción/Aventura"
+    },
+    {
+      "id": 5,
+      "titulo": "El Señor de los Anillos: El retorno del Rey",
+      "director": "Peter Jackson",
+      "anio": 2003,
+      "genero": "Fantasía/Aventura"
+    }
+  ]
+}
