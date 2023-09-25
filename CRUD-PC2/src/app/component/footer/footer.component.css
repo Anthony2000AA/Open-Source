@@ -1,0 +1,30 @@
+footer {
+  margin-top: 5px;
+  background-color: #0d1f40;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+  text-align: left;
+  padding: 0 20px;
+  max-width: 33%;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,64 @@
+.hero {
+  background-image: url("https://fastly.4sqi.net/img/general/600x600/2946309_-dL_cateqUVMQuT0ja_G4euVDA24RGrA82PC2QHQqkg.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding: 100px 0;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff4081;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: #ff0055;
+}
+
+/* Estilo de las películas */
+.movies {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 0;
+}
+
+.movie {
+  flex: 0 0 calc(33.33% - 20px);
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border-radius: 5px;
+}
+
+.movie img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.movie h2 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.movie p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
